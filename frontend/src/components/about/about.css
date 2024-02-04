@@ -1,0 +1,22 @@
+.logoutbtna {
+    position: absolute;
+    right: 0px;
+}
+
+.curra {
+    color: white !important;
+}
+
+.navbodya {
+    background-image: url('./shopping-bag-cart.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.pclass{
+    /* border: 3px solid rgb(106, 83, 83); */
+    width: fit-content;
+    height: fit-content;
+    position: relative;
+    top: 20px;
+}

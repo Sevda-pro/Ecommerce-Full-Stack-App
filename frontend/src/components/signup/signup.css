@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.signup {
+    display: flex;
+    justify-content: center;
+    background-image: url(./arrangement-black-friday-shopping-carts-with-copy-space.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.formdiv {
+    width: 40%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.btn{
+    color: antiquewhite !important;
+    position: absolute;
+    left: 30%;
+    transform: translate(-50%, -40%);
+    border: 2px solid blanchedalmond !important;
+    background-color: rgb(90, 110, 128) !important;
+}   
+.btn:hover{
+    background-color: rgb(225, 170, 107) !important;
+}
+.btn2{
+    position: absolute;
+    left: 70%;
+}
